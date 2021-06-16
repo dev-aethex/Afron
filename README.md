@@ -1,2 +1,2 @@
 # Afron
-Build powerful desktop applications in minutes!
+###### A project by Aethex
