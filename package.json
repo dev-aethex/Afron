@@ -1,0 +1,19 @@
+{
+  "name": "afron",
+  "version": "1.1.0",
+  "description": "A project by Aethex",
+  "main": "src/Afron.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-aethex/Afron.git"
+  },
+  "author": "Aethex <support@aethex.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-aethex/Afron/issues"
+  },
+  "homepage": "https://github.com/dev-aethex/Afron#readme"
+}
